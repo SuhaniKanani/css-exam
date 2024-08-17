@@ -1,0 +1,403 @@
+.mixcard {
+    height: 150px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.mixcardtxt {
+    height: 30px;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.mixcards {
+    height: 120px;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 5px;
+    cursor: pointer;
+    justify-content: space-between;
+}
+
+.mixcard1:hover {
+    margin-top: -5px;
+}
+
+.mixcard1 {
+    height: 120px;
+    width: 165px;
+    border-radius: 10px;
+}
+
+
+.mixcardimg {
+    height: 120px;
+    width: 100%;
+    border-radius: 10px;
+    filter: brightness(20%);
+}
+
+.mixcardtxt1 {
+    position: absolute;
+    top: 740px;
+    margin-left: 1%;
+    font-size: 0.8rem;
+    color: rgb(31, 109, 226);
+}
+
+.mixcardtxt2 {
+    position: absolute;
+    top: 755px;
+    margin-left: 1%;
+    font-size: 1.2rem;
+    color: rgb(255, 255, 255);
+}
+
+.mixcardtxt3 {
+    position: absolute;
+    top: 740px;
+    margin-left: 1%;
+    font-size: 0.8rem;
+    color: rgb(31, 109, 226);
+}
+
+.mixcardtxt4 {
+    position: absolute;
+    top: 755px;
+    margin-left: 1%;
+    font-size: 1.2rem;
+    color: rgb(255, 255, 255);
+}
+
+.mixcardtxt5 {
+    position: absolute;
+    top: 740px;
+    margin-left: 1%;
+    font-size: 0.8rem;
+    color: rgb(31, 109, 226);
+}
+
+.mixcardtxt6 {
+    position: absolute;
+    top: 755px;
+    margin-left: 1%;
+    font-size: 1.2rem;
+    color: rgb(255, 255, 255);
+}
+
+.mixcardtxt7 {
+    position: absolute;
+    top: 740px;
+    margin-left: 1%;
+    font-size: 0.8rem;
+    color: rgb(31, 109, 226);
+}
+
+.mixcardtxt8 {
+    position: absolute;
+    top: 755px;
+    margin-left: 1%;
+    font-size: 1.2rem;
+    color: rgb(255, 255, 255);
+}
+
+.mixcardtxt9 {
+    position: absolute;
+    top: 740px;
+    margin-left: 1%;
+    font-size: 0.8rem;
+    color: rgb(31, 109, 226);
+}
+
+.mixcardtxt10 {
+    position: absolute;
+    top: 755px;
+    margin-left: 1%;
+    font-size: 1.2rem;
+    color: rgb(255, 255, 255);
+}
+
+.mixcardtxt11 {
+    position: absolute;
+    top: 740px;
+    margin-left: 1%;
+    font-size: 0.8rem;
+    color: rgb(31, 109, 226);
+}
+
+.mixcardtxt12 {
+    position: absolute;
+    top: 755px;
+    margin-left: 1%;
+    font-size: 1.2rem;
+    color: rgb(255, 255, 255);
+}
+
+.mixcardicon {
+    position: absolute;
+    top: 805px;
+    left: 11%;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.mixcardicon2 {
+    position: absolute;
+    top: 805px;
+    left: 24.4%;
+    color: rgb(255, 255, 255);
+    font-size: 5rem;
+}
+
+.mixcardicon3 {
+    position: absolute;
+    top: 805px;
+    left: 38%;
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+}
+
+.mixcardicon4 {
+    position: absolute;
+    top: 805px;
+    left: 51.7%;
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+}
+
+.mixcardicon5 {
+    position: absolute;
+    top: 805px;
+    left: 65.2%;
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+}
+
+.mixcardicon6 {
+    position: absolute;
+    top: 805px;
+    left: 78.8%;
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+}
+
+@media (min-width: 0px) and (max-width: 425px) {
+    .main {
+        height: 2950px;
+    }
+
+    .mixcardtxt {
+        margin-top: 240%;
+    }
+
+    .mixcards {
+        height: 420px;
+        width: 80%;
+        margin-top: 2%;
+        flex-wrap: wrap;
+    }
+
+    .mixcardtxt1 {
+        margin-top: 210%;
+        margin-left: 3%;
+    }
+
+    .mixcardtxt2 {
+        margin-top: 210%;
+        margin-left: 3%;
+    }
+
+    .mixcardtxt3 {
+        margin-top: 210%;
+        margin-left: 3%;
+    }
+
+    .mixcardtxt4 {
+        margin-top: 210%;
+        margin-left: 3%;
+    }
+
+    .mixcardtxt5 {
+        margin-top: 242%;
+        margin-left: 3%;
+    }
+
+    .mixcardtxt6 {
+        margin-top: 242%;
+        margin-left: 3%;
+    }
+
+    .mixcardtxt7 {
+        margin-top: 242%;
+        margin-left: 3%;
+    }
+
+    .mixcardtxt8 {
+        margin-top: 242%;
+        margin-left: 3%;
+    }
+
+    .mixcardtxt9 {
+        margin-top: 276%;
+        margin-left: 3%;
+    }
+
+    .mixcardtxt10 {
+        margin-top: 276%;
+        margin-left: 3%;
+    }
+
+    .mixcardtxt11 {
+        margin-top: 276%;
+        margin-left: 3%;
+    }
+
+    .mixcardtxt12 {
+        margin-top: 276%;
+        margin-left: 3%;
+    }
+
+    .mixcardicon {
+        margin-top: 209%;
+        margin-left: 2%;
+    }
+
+    .mixcardicon2 {
+        margin-top: 209%;
+        margin-left: 30%;
+    }
+
+    .mixcardicon3 {
+        margin-top: 241%;
+        left: 14%;
+    }
+
+    .mixcardicon4 {
+        margin-top: 241%;
+        left: 54%;
+    }
+
+    .mixcardicon5 {
+        margin-top: 275%;
+        left: 14%;
+    }
+
+    .mixcardicon6 {
+        margin-top: 275%;
+        left: 54%;
+    }
+}
+
+@media (min-width: 426px) and (max-width: 768px) {
+
+    .main {
+        height: 1820px;
+    }
+
+    .mixcardtxt {
+        margin-top: 60%;
+    }
+
+    .mixcards {
+        height: 280px;
+        width: 80%;
+        margin-top: 2%;
+        flex-wrap: wrap;
+    }
+
+    .mixcardtxt1 {
+        margin-top: 44%;
+        margin-left: 2%;
+    }
+
+    .mixcardtxt2 {
+        margin-top: 44%;
+        margin-left: 2%;
+    }
+
+    .mixcardtxt3 {
+        margin-top: 44%;
+        margin-left: 2%;
+    }
+
+    .mixcardtxt4 {
+        margin-top: 44%;
+        margin-left: 2%;
+    }
+
+    .mixcardtxt5 {
+        margin-top: 44%;
+        margin-left: 2%;
+    }
+
+    .mixcardtxt6 {
+        margin-top: 44%;
+        margin-left: 2%;
+    }
+
+    .mixcardtxt7 {
+        margin-top: 62%;
+        margin-left: 2%;
+    }
+
+    .mixcardtxt8 {
+        margin-top: 62%;
+        margin-left: 2%;
+    }
+
+    .mixcardtxt9 {
+        margin-top: 62%;
+        margin-left: 2%;
+    }
+
+    .mixcardtxt10 {
+        margin-top: 62%;
+        margin-left: 2%;
+    }
+
+    .mixcardtxt11 {
+        margin-top: 62%;
+        margin-left: 2%;
+    }
+
+    .mixcardtxt12 {
+        margin-top: 62%;
+        margin-left: 2%;
+    }
+
+    .mixcardicon {
+        margin-top: 44%;
+        margin-left: 2%;
+    }
+
+    .mixcardicon2 {
+        margin-top: 44%;
+        margin-left: 16%;
+    }
+
+    .mixcardicon3 {
+        margin-top: 44%;
+        left: 70%;
+    }
+
+    .mixcardicon4 {
+        margin-top: 62%;
+        left: 12%;
+    }
+
+    .mixcardicon5 {
+        margin-top: 62%;
+        left: 41%;
+    }
+
+    .mixcardicon6 {
+        margin-top: 62%;
+        left: 71%;
+    }
+
+
+}

@@ -1,0 +1,282 @@
+
+.lastcard {
+    height: 350px;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.lastcardtxt {
+    height: 30px;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.lastcards {
+    height: 320px;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lastcard1 {
+    height: 320px;
+    width: 255px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.lastimg {
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.lastimgtxt1 {
+    position: absolute;
+    top: 930px;
+    left: 11%;
+    color: white;
+}
+
+.lastimgtxt2 {
+    position: absolute;
+    top: 990px;
+    left: 11%;
+    color: white;
+}
+
+.lastimgtxt3 {
+    position: absolute;
+    top: 930px;
+    left: 31.5%;
+    color: white;
+}
+
+.lastimgtxt4 {
+    position: absolute;
+    top: 960px;
+    left: 31.5%;
+    color: white;
+}
+
+.lastimgtxt5 {
+    position: absolute;
+    top: 930px;
+    left: 51.8%;
+    color: white;
+}
+
+.lastimgtxt6 {
+    position: absolute;
+    top: 960px;
+    left: 51.8%;
+    color: white;
+}
+
+.lastimgtxt7 {
+    position: absolute;
+    top: 930px;
+    left: 72%;
+    color: white;
+}
+
+.lastimgtxt8 {
+    position: absolute;
+    top: 960px;
+    left: 72%;
+    color: white;
+}
+
+.lastimgicon1 {
+    position: absolute;
+    top: 1150px;
+    left: 23%;
+    font-size: 3.5rem;
+    color: white;
+}
+
+.lastimgicon2 {
+    position: absolute;
+    top: 1150px;
+    left: 43.5%;
+    font-size: 3.5rem;
+    color: white;
+}
+
+.lastimgicon3 {
+    position: absolute;
+    top: 1150px;
+    left: 63.8%;
+    font-size: 3.5rem;
+    color: white;
+}
+
+.lastimgicon4 {
+    position: absolute;
+    top: 1150px;
+    left: 84%;
+    font-size: 3.5rem;
+    color: white;
+}
+
+@media (min-width: 0px) and (max-width: 425px) {
+    .lastcardtxt {
+        margin-top: 320px;
+    }
+
+    .lastcards {
+        height: 850px;
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .lastcard1 {
+        height: 200px;
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    .lastimgtxt1 {
+        top: 377%;
+        left: 21%;
+    }
+
+    .lastimgtxt2 {
+        top: 388%;
+        left: 21%;
+    }
+
+    .lastimgtxt3 {
+        top: 416%;
+        left: 21%;
+    }
+
+    .lastimgtxt4 {
+        top: 422%;
+        left: 21%;
+    }
+
+    .lastimgtxt5 {
+        top: 455.5%;
+        left: 21%;
+    }
+
+    .lastimgtxt6 {
+        top: 461%;
+        left: 21%;
+    }
+
+    .lastimgtxt7 {
+        top: 494%;
+        left: 21%;
+    }
+
+    .lastimgtxt8 {
+        top: 500%;
+        left: 21%;
+    }
+    
+    .lastimgicon1 {
+        top: 397%;
+        left: 62%;
+    }
+
+    .lastimgicon2 {
+        top: 435%;
+        left: 62%;
+    }
+
+    .lastimgicon3 {
+        top: 474.2%;
+        left: 62%;
+    }
+
+    .lastimgicon4 {
+        top: 513%;
+        left: 62%;
+    }
+}
+
+@media (min-width: 426px) and (max-width: 768px) {
+    .lastcardtxt {
+        margin-top: 180px;
+    }
+
+    .lastcards {
+        height: 440px;
+        width: 80%;
+        flex-wrap: wrap;
+    }
+
+    .lastcard1 {
+        height: 200px;
+        margin: 0 auto;
+        width: 46%;
+    }
+
+    .lastimgtxt1 {
+        top: 250%;
+        left: 14%;
+    }
+
+    .lastimgtxt2 {
+        top: 260.5%;
+        left: 14%;
+    }
+
+    .lastimgtxt3 {
+        top: 250%;
+        left: 54%;
+    }
+
+    .lastimgtxt4 {
+        top: 255%;
+        left: 54%;
+    }
+
+    .lastimgtxt5 {
+        top: 290%;
+        left: 14%;
+    }
+
+    .lastimgtxt6 {
+        top: 295%;
+        left: 14%;
+    }
+
+    .lastimgtxt7 {
+        top: 290%;
+        left: 54%;
+    }
+
+    .lastimgtxt8 {
+        top: 295%;
+        left: 54%;
+    }
+
+    .lastimgicon1 {
+        top: 270%;
+        left: 37%;
+    }
+
+    .lastimgicon2 {
+        top: 270%;
+        left: 77%;
+    }
+
+    .lastimgicon3 {
+        top: 309%;
+        left: 37%;
+    }
+
+    .lastimgicon4 {
+        top: 309%;
+        left: 77%;
+    }
+}
